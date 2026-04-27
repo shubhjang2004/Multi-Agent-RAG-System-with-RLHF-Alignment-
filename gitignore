@@ -1,0 +1,14 @@
+data/
+models/
+*.pdf
+*.pt
+__pycache__/
+*.pyc
+.env
+*.egg-info/
+dist/
+build/
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
+*.ipynb
